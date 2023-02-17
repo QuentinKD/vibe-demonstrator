@@ -1,0 +1,23 @@
+.link_downloads {
+    color: #7def00;
+    text-align: center;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 25px;
+    margin-top: 10px;
+  }
+
+.link a:hover {
+    color: #59ac00;
+  }
+
+.about_us_story a {
+    color: #a4b1cd;
+    font-size: 25px;
+    line-height: 10px;
+}
+
+.about_us_story a:hover {
+  color: #a4b1cd8f;
+}
